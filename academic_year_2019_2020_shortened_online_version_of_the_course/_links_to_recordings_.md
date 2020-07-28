@@ -17,3 +17,9 @@ Introduction, R installation, basic data types and structures, vectors, operatio
     https://youtu.be/iPqUM4Vy-Uk
 )
 
+<p align = "center">
+  <a href = "https://youtu.be/iPqUM4Vy-Uk">
+    <img src = "https://img.youtube.com/vi/iPqUM4Vy-Uk/hqdefault.jpg" alt = "B83128 Introduction to R scripting language -- lesson 01">
+  </a> 
+</p>
+
