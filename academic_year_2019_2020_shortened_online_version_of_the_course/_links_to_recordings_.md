@@ -9,16 +9,8 @@ Links to the sessions' recordings are below.
 
 Introduction, R installation, basic data types and structures, vectors, operations.
 
-[
-    ![watch the video](
-        https://img.youtube.com/vi/iPqUM4Vy-Uk/hqdefault.jpg
-    )
-](
-    https://youtu.be/iPqUM4Vy-Uk
-)
-
 <p align = "center">
-  <a href = "https://youtu.be/iPqUM4Vy-Uk">
+  <a href = "https://youtu.be/iPqUM4Vy-Uk" target = "_blank">
     <img src = "https://img.youtube.com/vi/iPqUM4Vy-Uk/hqdefault.jpg" alt = "B83128 Introduction to R scripting language -- lesson 01">
   </a> 
 </p>
