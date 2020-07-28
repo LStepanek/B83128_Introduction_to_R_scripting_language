@@ -7,7 +7,7 @@ Links to the sessions' recordings are below.
 
 [
     ![watch the video](
-        https://img.youtube.com/vi/https:/iPqUM4Vy-Uk/maxresdefault.jpg
+        https://img.youtube.com/vi/iPqUM4Vy-Uk/maxresdefault.jpg
     )
 ](
     https://youtu.be/iPqUM4Vy-Uk
