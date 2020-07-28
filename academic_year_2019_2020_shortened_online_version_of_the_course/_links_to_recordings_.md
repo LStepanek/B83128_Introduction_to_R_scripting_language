@@ -7,8 +7,9 @@ Links to the sessions' recordings are below.
 
 [
     ![watch the video](
-        https://raw.githubusercontent.com/LStepanek/B00364_Zdravotnicka_informatika/master/_thumbnail_.png
+        https://img.youtube.com/vi/https://youtu.be/iPqUM4Vy-Uk/maxresdefault.jpg
     )
 ](
-    https://youtu.be/-Swztoc8DLU
+    https://youtu.be/iPqUM4Vy-Uk
 )
+
