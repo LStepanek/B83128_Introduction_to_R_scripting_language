@@ -15,3 +15,14 @@ Introduction, R installation, basic data types and structures, vectors, operatio
   </a> 
 </p>
 
+
+## Lesson 02
+
+Data types and structures, matrices, data frames and lists.
+
+<p align = "center">
+  <a href = "https://youtu.be/MdEyjJNtZEc" target = "_blank">
+    <img src = "https://img.youtube.com/vi/MdEyjJNtZEc/hqdefault.jpg" alt = "B83128 Introduction to R scripting language -- lesson 02">
+  </a> 
+</p>
+
