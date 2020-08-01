@@ -2,7 +2,7 @@
 
 This is a list of online lessons of the elective subject B83128 Introduction to R scripting language held by the Institute of Biophysics and Informatics, First Faculty of Medicine, Charles University. This years' running of the course has to been shortened and moved online due to the COVID-19 pandemic.
 
-Links to the sessions' recordings are below.
+Links to the sessions' recordings are below (click on a preview image of a video to start the video playing at youtube).
 
 
 ## Lesson 01
