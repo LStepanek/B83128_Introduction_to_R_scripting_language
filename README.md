@@ -38,8 +38,8 @@ Data types and structures, matrices, data frames and lists. The slides are avail
 Data types and structures, matrices, data frames and lists. The slides are available [here](https://github.com/LStepanek/B83128_Introduction_to_R_scripting_language/blob/master/academic_year_2019_2020_shortened_online_version_of_the_course/_03_lesson_.pdf) and the script is [here](https://github.com/LStepanek/B83128_Introduction_to_R_scripting_language/blob/master/academic_year_2019_2020_shortened_online_version_of_the_course/_03_script_.R). The SPSS file `a_file_from_SPSS.sav` is [here](https://github.com/LStepanek/B83128_Introduction_to_R_scripting_language/blob/master/academic_year_2019_2020_shortened_online_version_of_the_course/a_file_from_SPSS.sav).
 
 <p align = "center">
-  <a href = "https://youtu.be/MdEyjJNtZEc" target = "_blank">
-    <img src = "https://img.youtube.com/vi/MdEyjJNtZEc/hqdefault.jpg" alt = "B83128 Introduction to R scripting language -- lesson 03">
+  <a href = "https://youtu.be/7ZDMk92GiNg" target = "_blank">
+    <img src = "https://img.youtube.com/vi/7ZDMk92GiNg/hqdefault.jpg" alt = "B83128 Introduction to R scripting language -- lesson 03">
   </a> 
 </p>
 
